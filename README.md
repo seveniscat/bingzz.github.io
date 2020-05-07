@@ -1,2 +1,1 @@
-# bingzz.github.io
-bingzz.github.io
+## Welcome to GitHub Pages
