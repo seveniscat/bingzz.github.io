@@ -1,4 +1,0 @@
-# seveniscat
-
-## Part 1
-
