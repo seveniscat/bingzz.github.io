@@ -24,3 +24,5 @@ navigation_footer:
   url: http://bzcat.fun
 
 remote_theme: daviddarnes/alembic@main
+
+theme: jekyll-theme-cayman
